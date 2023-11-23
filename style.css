@@ -33,6 +33,8 @@ body {
   justify-content: center;
 }
 .login-right img {
+  margin: auto 0;
+  height: 50%;
   width: 80%;
 }
 
@@ -147,4 +149,6 @@ button:hover {
   .login-right {
     display: none;
   }
-}/*# sourceMappingURL=style.css.map */
+}
+
+/*# sourceMappingURL=style.css.map */
